@@ -1,7 +1,7 @@
 <a id="anchor"></a>
 # Super Geocoder
 
-####Geography Web App: 
+#### Geography Web App: 
 
 
 Пользователь загружает CSV-файл в котором есть колонка «Address/address» с адресами мест. Серверная часть приложения - Python скрипт читает файл и добавляет значения широты и долготы к каждому из мест, которые вычисляются из колонки «Address/address».
@@ -29,7 +29,7 @@ __Всплывающее окно с указанием адреса.__
 <img width="1423" alt="screen4" src="https://user-images.githubusercontent.com/97599612/173184175-03287e75-9c65-4e9b-b756-ed16f45c657e.png">
 
 __Скачанный CSV файл доступен в папке Загрузок.__
-<img width="757" alt="screen5" src="https://user-images.githubusercontent.com/97599612/173184177-680d63b1-61de-45ec-aee7-61d6ea5e00bd.png">
+<img width="752" alt="screen5" src="https://user-images.githubusercontent.com/97599612/173184803-d3760f87-0c88-42f6-a90a-f088a3501acb.png">
 
 
 [Вверх](#anchor)
