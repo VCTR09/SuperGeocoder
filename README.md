@@ -3,7 +3,7 @@
 
 ### Geography Web App
 
-[ссылка на сайт приложения: <img width="345" alt="link" src="https://user-images.githubusercontent.com/97599612/173211522-0ea8ed77-c1d2-4ae3-a4d0-071e2c4911bb.png">](http://geocoder123.pythonanywhere.com/)
+[ссылка на сайт приложения: ![link1](https://user-images.githubusercontent.com/97599612/173212705-78805b5e-dfd7-483e-b726-8b0e43449d7d.png)](http://geocoder123.pythonanywhere.com/)
 
 
 _Библиотеки, использованные при создании приложения:_
