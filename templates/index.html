@@ -7,7 +7,8 @@
         <body>
             <div class="container">
                 <h1>Super Geocoder</h1>
-                <h3>Please upload your CSV file. The values containing address should be in a column named <em>address</em> or <em>Address</em>.</h3>
+                <h2>This Web App gives you coordinates of given address and its location on a Map.</h2>
+                <h3>Please upload your <strong>CSV</strong> file. The values containing Address should be in a column named <em>address</em> or <em>Address</em>.</h3>
                 <form action="{{url_for('success_table')}}" method = "POST" enctype = "multipart/form-data">
                     <input type="file" accept=".csv" name="file">
                     <button type="submit"> Submit </button>
